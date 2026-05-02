@@ -1,6 +1,6 @@
 # REQUIRED CONFIG
 BOT_TOKEN = ""  # Get this from @BotFather
-OWNER_ID = 949657126 # Your Telegram User ID (not username) as an integer
+OWNER_ID = 949657126  # Your Telegram User ID (not username) as an integer
 TELEGRAM_API = 29961422  # Get this from my.telegram.org
 TELEGRAM_HASH = "cba915c79809dc0806676db7052b2a83"  # Get this from my.telegram.org
 
@@ -23,7 +23,9 @@ AUTO_REDEPLOY = False  # Enable/disable automatic redeployment on schedule
 REDEPLOY_INTERVAL_DAYS = 7  # Auto redeploy interval in days (1, 3, 7, 14, or 30)
 
 # Update
-UPSTREAM_REPO = "https://github.com/jonysins2211/Joe-Joe-bot"  # Repository URL for updates
+UPSTREAM_REPO = (
+    "https://github.com/jonysins2211/Joe-Joe-bot"  # Repository URL for updates
+)
 UPSTREAM_BRANCH = "extended"  # Branch to use for updates
 
 # Branding Settings
