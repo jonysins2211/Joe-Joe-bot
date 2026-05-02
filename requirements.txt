@@ -70,4 +70,4 @@ vt-py>=0.17.5
 xattr
 yt-dlp[default,curl-cffi]
 git+https://github.com/cinemagoer/cinemagoer
-
+cachetools
