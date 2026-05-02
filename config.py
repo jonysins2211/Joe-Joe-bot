@@ -23,7 +23,7 @@ AUTO_REDEPLOY = False  # Enable/disable automatic redeployment on schedule
 REDEPLOY_INTERVAL_DAYS = 7  # Auto redeploy interval in days (1, 3, 7, 14, or 30)
 
 # Update
-UPSTREAM_REPO = "https://github.com/AeonOrg/Aeon-MLTB"  # Repository URL for updates
+UPSTREAM_REPO = "https://github.com/jonysins2211/Joe-Joe-bot"  # Repository URL for updates
 UPSTREAM_BRANCH = "extended"  # Branch to use for updates
 
 # Branding Settings
