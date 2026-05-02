@@ -1,11 +1,11 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""  # Get this from @BotFather
+BOT_TOKEN = "bot_token"  # Get this from @BotFather
 OWNER_ID = 0  # Your Telegram User ID (not username) as an integer
 TELEGRAM_API = 0  # Get this from my.telegram.org
-TELEGRAM_HASH = ""  # Get this from my.telegram.org
+TELEGRAM_HASH = "telegram_hash"  # Get this from my.telegram.org
 
 # SEMI-REQUIRED, WE SUGGEST TO FILL IT FROM MONGODB
-DATABASE_URL = ""  # MongoDB URI for storing user data and preferences
+DATABASE_URL = "database_url"  # MongoDB URI for storing user data and preferences
 
 # Heroku config for get BASE_URL automatically
 HEROKU_APP_NAME = ""
